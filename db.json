@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "Post is used to add data ",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "Post is used to add data ",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "Everything is not new ",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "Axios is for runtime development ",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "json server id for developmenet ",
+      "important": false,
+      "id": 8
+    }
+  ]
+}
